@@ -34,6 +34,7 @@
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -41,6 +42,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ---
@@ -49,17 +51,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🎓 Student Task Management System](https://github.com/tuyisengeaurele/student-task-management-system) | Role-based web app for academic task management with student, advisor and admin roles | Java Servlet, JSP, MySQL |
+| [♟️ Next Chess](https://github.com/tuyisengeaurele/next_chess) | A chess application built with Next.js and TypeScript featuring real-time gameplay | TypeScript, Next.js |
 | [🛒 ShopMaster POS](https://github.com/tuyisengeaurele/pos) | Production-quality Point of Sale and Inventory desktop app with PDF receipts, analytics, and role-based access | Java 23, JavaFX, SQLite |
 | [💬 T Web Chat](https://github.com/tuyisengeaurele/t_web_chat) | Real-time chat app with Socket.IO, JWT auth, media sharing, and presence detection | React, Node.js, MongoDB |
 | [🌿 AI for Pest and Diseases](https://github.com/tuyisengeaurele/AIforPestandDiseases) | ML models for sericulture pest and disease classification using CNN architectures | Python, TensorFlow |
-
----
-
-## 📊 GitHub Stats
-
-![Ange Aurele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuyisengeaurele&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuyisengeaurele&layout=compact&theme=dark&hide_border=true)
 
 ---
 
