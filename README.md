@@ -1,6 +1,6 @@
 # Ange Aurele Tuyisenge
 
-A Computer and Software Engineering student at the University of Rwanda. I build full-stack web apps, mobile experiences, and business software, with a focus on clean architecture and real-world use.
+A Computer and Software Engineering student at the University of Rwanda College of Science and Technology.
 
 ---
 
